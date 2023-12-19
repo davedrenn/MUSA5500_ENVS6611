@@ -21,7 +21,7 @@ website:
     tools: 
       - icon: github
         href: https://github.com/davedrenn/
-        text: "MUSA 550 GitHub"      
+        text: "GitHub Profile"      
 
     style: "docked"
     search: true
